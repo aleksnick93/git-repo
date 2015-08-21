@@ -1,1 +1,2 @@
-System.out.print("Say hello to the world!");
+System.out.println("Say hi to the humanity");
+System.out.println("Hello!");
