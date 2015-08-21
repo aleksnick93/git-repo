@@ -254,6 +254,7 @@ void B_tree::printRecSorted(Page* page) {
  
 int main() {
 	B_tree tree;
+	cout << "Set up tree set" << endl;
 	srand(time(NULL));
 	tree.erase();
 	for (int i = 0; i < 100; i++)
