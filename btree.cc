@@ -4,6 +4,8 @@
 
 using namespace std;
 
+//Это параллельная ветка
+//для различных улучшений
 class B_tree
 {
 public:
