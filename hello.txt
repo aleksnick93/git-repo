@@ -1,1 +1,1 @@
-System.out("Say hello to the world!");
+System.out("Say hello to the world!  Say hello to console!");
